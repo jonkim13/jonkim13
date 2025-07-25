@@ -5,17 +5,15 @@ My names Jonathan Kim and I'm a Junior Computer Science student at The Universit
 ## My Favorite Projects
 
 - **[Fight Coach](https://github.com/jonkim13/Fight-Coach)**  
-  A full-stack AI fitness platform for fighters to improve their workout form, track punches, and connect with coaches.
+  A full-stack AI-powered web platform that helps fighters improve workout form, analyze punch counts, and connect with coaches.
 
 - **[SnapMarket](https://github.com/jonkim13/SnapMarket)**  
-  Full-stack application that allows users to take a photo snippet from TikTok videos to then be able to search for that product, similar to the Google Pixel vision functionality.
+  A web application that lets users search for products by uploading a frame from TikTok — similar to Google Lens, but for TikTok shopping.
 
 - **[DUI Risk Radar](https://github.com/jonkim13/DUI-Risk-Radar)**  
-  A heatmap app using Google Maps API to visualize DUI hotspots and promote safe decision-making.
+  A website that visualizes DUI hotspots using the Google Maps API to promote safer, more informed decision-making.
 
 If you want to see some more projects, I have them on my website!
-  
-[Portfolio Website](https://www.jonathan-kim.me)
 
 ## 🛠 Technologies & Tools
 
