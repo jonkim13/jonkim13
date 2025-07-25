@@ -2,7 +2,7 @@
 
 My names Jonathan Kim and I'm a Junior Computer Science student at The University of Texas at El Paso.
 
-## Projects I'm proud of
+## My Favorite Projects
 
 - **[Fight Coach](https://github.com/your-username/fight-coach)**  
   A full-stack AI fitness platform for fighters to improve form, track punches, and connect with coaches.
@@ -22,6 +22,6 @@ Check out more projects [here](https://github.com/your-username?tab=repositories
 
 ## 📫 Socials
 
-- [LinkedIn](https://www.linkedin.com/in/jonathankimdev)
-- [Portfolio Website](https://www.jonathankim.com)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/jonathan-kim-j1k3/)
+- [Portfolio Website](https://www.jonathan-kim.me)
+- [Email](mailto:jon.kim.mj@gmail.com)
