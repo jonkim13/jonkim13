@@ -2,6 +2,8 @@
 
 My names Jonathan Kim and I'm a Junior Computer Science student at The University of Texas at El Paso.
 
+[![Spotify](https://spotifywidget-ten.vercel.app/api/spotify)](https://open.spotify.com/user/Jwuune)
+
 ## My Favorite Projects
 
 - **[Fight Coach](https://github.com/jonkim13/Fight-Coach)**  
