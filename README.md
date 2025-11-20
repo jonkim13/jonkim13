@@ -1,6 +1,6 @@
 ## Hey, what's up? 👋
 
-My names Jonathan Kim and I'm a Junior Computer Science student at The University of Texas at El Paso.
+My names Jonathan Kim and I'm a Senior Computer Science student at The University of Texas at El Paso.
 
 [![Spotify](https://spotifywidget-ten.vercel.app/api/spotify)](https://open.spotify.com/user/Jwuune)
 
