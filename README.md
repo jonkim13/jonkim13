@@ -1,6 +1,8 @@
 ## Hey, what's up? 👋
 
-My names Jonathan Kim and I'm a Senior Computer Science student at The University of Texas at El Paso.
+My names Jonathan Kim and I'm a Senior Computer Science student at The University of Texas at El Paso. 
+
+Cofounder of ReconAIssance.
 
 ## My Favorite Projects
 
@@ -13,7 +15,6 @@ My names Jonathan Kim and I'm a Senior Computer Science student at The Universit
 - **[DUI Risk Radar](https://github.com/jonkim13/DUI-Risk-Radar)**  
   A website that visualizes DUI hotspots using the Google Maps API to promote safer, more informed decision-making.
 
-If you want to see some more projects, I have them on my website!
 
 ## 🛠 Technologies & Tools
 
