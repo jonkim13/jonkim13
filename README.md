@@ -4,17 +4,6 @@ My names Jonathan Kim and I'm a Senior Computer Science student at The Universit
 
 Cofounder of ReconAIssance.
 
-## My Favorite Projects
-
-- **[Fight Coach](https://github.com/jonkim13/Fight-Coach)**  
-  A full-stack AI-powered web platform that helps fighters improve workout form, analyze punch counts, and connect with coaches.
-
-- **[SnapMarket](https://github.com/jonkim13/SnapMarket)**  
-  A web application that lets users search for products by uploading a frame from TikTok — similar to Google Lens, but for TikTok shopping.
-
-- **[DUI Risk Radar](https://github.com/jonkim13/DUI-Risk-Radar)**  
-  A website that visualizes DUI hotspots using the Google Maps API to promote safer, more informed decision-making.
-
 
 ## 🛠 Technologies & Tools
 
