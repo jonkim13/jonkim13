@@ -2,7 +2,7 @@
 
 My names Jonathan Kim and I'm a Senior Computer Science student at The University of Texas at El Paso. 
 
-Cofounder of ReconAIssance.
+Cofounder of BorderETA.
 
 
 ## 🛠 Technologies & Tools
