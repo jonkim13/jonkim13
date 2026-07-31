@@ -4,6 +4,8 @@ My names Jonathan Kim and I'm a Senior Computer Science student at The Universit
 
 Cofounder of BorderETA.
 
+https://jonathan-kim.me
+
 
 ## 🛠 Technologies & Tools
 
